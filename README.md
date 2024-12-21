@@ -44,3 +44,9 @@ Contributions are welcome! To contribute:
 3. Commit your changes: `git commit -m "Add feature"`.
 4. Push to your branch: `git push origin feature-name`.
 5. Open a pull request.
+
+---
+
+## License
+
+This project is licensed under the Apache 2.0 License.
