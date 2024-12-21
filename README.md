@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ``` 
    git clone https://github.com/AceyAdapter/skypods-web.git
-   cd skypods-api
+   cd skypods-web
 2. **Compose Docker**
    ```
    docker-compose up
